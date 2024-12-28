@@ -2,7 +2,7 @@
 After performing customer segmentation via Bigquery SQL (refer **README.pdf** file), I imported the data into Tableau and performed visual analysis.<br>
 Dashboard link here: https://public.tableau.com/app/profile/shikhar.sinha8358/viz/Retailstore-InteractiveDashboard/Dashboard1
 <br><br>
-This is an interactive dashboard. You may hover towards each of the country on the left and can take a peak of customer segmentation distribution for each country individually. This also gets reflected on the right side within a sectond.<br>
+> This is an interactive dashboard. <br>You may hover on each of the country, on the left, and can take a peak of customer segmentation distribution for each country individually. This also gets reflected on the right side within a sectond.<br>
 ***Give it a shot!***
 
 # Observation and conclusions
